@@ -1,4 +1,4 @@
-#Fonksiyonu çağırıyoruz ve lice ve Bob'un puanlarını başlangıçta 0 olarak ayarlıyoruz.
+#Fonksiyonu çağırıyoruz ve Alice ve Bob'un puanlarını başlangıçta 0 olarak ayarlıyoruz.
 def compareTriplets(a, b):
     alice_score = 0
     bob_score = 0
